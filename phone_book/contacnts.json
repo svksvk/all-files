@@ -1,0 +1,19 @@
+{
+    "contacts": [
+        {
+            "name": "Tomas",
+            "surname": "Tomasson",
+            "phone": "50530305"
+        },
+        {
+            "name": "Slava",
+            "surname": "R",
+            "phone": "696930202"
+        },
+        {
+            "name": "Jessica",
+            "surname": "Mason",
+            "phone": "4042989684"
+        }
+    ]
+}

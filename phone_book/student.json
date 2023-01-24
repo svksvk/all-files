@@ -1,0 +1,38 @@
+{
+    "students": [
+        {   
+            "name":"John",
+            "surname":"Stone",
+            "class":"10.a",
+            "school":"DDA",
+            "gradelvl": 10
+        },
+        {   
+            "name":"Anna",
+            "surname":"Rock",
+            "class":"10.a",
+            "school":"DDA Vsk",
+            "gradelvl": 10,
+            "grades": [
+                {
+                    "prieksmets":"Matematika",
+                    "atzime":10,
+                    "data":"15.11.2022",
+                    "type": "exam"
+                },
+                {
+                    "prieksmets":"Valoda",
+                    "atzime":9,
+                    "data":"11.11.2022",
+                    "type": "exam"
+                },
+                {
+                    "prieksmets":"Programmesana",
+                    "atzime":6,
+                    "data":"05.10.2022",
+                    "type": "test"
+                }
+            ]
+        }
+    ]
+}
